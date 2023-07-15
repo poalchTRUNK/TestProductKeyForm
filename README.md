@@ -11,7 +11,15 @@ It's very simple. Let me explain.
 ![image](https://github.com/poalchTRUNK/TestProductKeyForm/assets/110284837/92637341-e016-4f63-b621-b924d208f2d4)
 
 2. When you press the button, it goes to a cycle of If commands, that checks every cell for the correct key. If some cell is incorrect, there is an Else statement that shows a MsgBox, that the key is incorrect.
+
+![image](https://github.com/poalchTRUNK/TestProductKeyForm/assets/110284837/34726ea6-7270-432b-a23b-5fc8fbfd026f)
+
 3. When it successfully checks all cells and everything is correct, it shows a MsgBox, that it is all correct.
+
+![image](https://github.com/poalchTRUNK/TestProductKeyForm/assets/110284837/f1edeb4c-4920-4e85-a994-b6bc49f37a03)
+
+4. code for 1 and 2
+
 ![image](https://github.com/poalchTRUNK/TestProductKeyForm/assets/110284837/cce2cb5d-897c-4b24-b55b-80c540f33553)
   
 That's all!
