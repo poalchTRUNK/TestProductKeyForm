@@ -8,6 +8,7 @@ This is a form with a product key checker in VB.NET
 It's very simple. Let me explain.
 
 1. When you type the product key, and the TextBox reaches five characters, it switches focus to the second TextBox, and so on, until we get to the last Textbox, and after you type it in, it switches focus to the Button
+ 
 ![image](https://github.com/poalchTRUNK/TestProductKeyForm/assets/110284837/92637341-e016-4f63-b621-b924d208f2d4)
 
 2. When you press the button, it goes to a cycle of If commands, that checks every cell for the correct key. If some cell is incorrect, there is an Else statement that shows a MsgBox, that the key is incorrect.
